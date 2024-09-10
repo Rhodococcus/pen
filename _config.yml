@@ -13,7 +13,7 @@
 
 theme: jekyll-agency
 
-url    : "https://Rhodococcus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "http://github.com/Rhodococcus" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/pen" # the subpath of your site, e.g. /blog
 
 title      : Gunbam Company
